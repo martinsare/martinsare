@@ -1,16 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Martins</h1>
 
 <p align="center">
-Computational & Data Journalism MSc student building automation systems, APIs and web applications.
+Developer • Data Journalism • Automation • AI Tools
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+- 🎓 BSc Computer Science
 - 🎓 MSc Computational & Data Journalism student
 - 🌍 Based in the United Kingdom
-- ⚡ Interested in automation, AI tools and data systems
+- ⚡ Interested in automation systems, AI tools and scalable applications
 - 🛠 Building web apps, APIs and workflow tools
 - 📊 Exploring storytelling through technology and data
 
@@ -56,6 +57,19 @@ Computational & Data Journalism MSc student building automation systems, APIs an
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
+
+---
+
+## 🔮 Future Upgrades
+
+- ✨ Animated typing effect
+- 🐍 Contribution snake animation
+- 🌐 Portfolio website
+- 👀 Visitor counter
+- 🎨 Custom GitHub banner
+- 🌑 Dark cyber/dev aesthetic
+- 📦 Project showcase cards
+- 🎵 Spotify & Discord widgets
 
 ---
 
