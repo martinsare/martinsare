@@ -5,98 +5,93 @@
 <h1 align="center">Hey there 👋, I'm Martins</h1>
 
 <p align="center">
-Developer • Data Journalism • Automation • AI Tools
+  Developer • Data Journalism • Automation • AI Tools
 </p>
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+automation+systems;Creating+web+applications;Exploring+AI+and+data+journalism;Turning+ideas+into+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+automation+systems;Creating+modern+web+applications;Exploring+AI+and+data+journalism;Turning+ideas+into+scalable+systems" />
 </p>
 
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc Computer Science
-- 🎓 MSc Computational & Data Journalism student
-- 🌍 Based in the United Kingdom
-- ⚡ Interested in automation systems, AI tools and scalable applications
-- 🛠 Building web apps, APIs and workflow tools
-- 📊 Exploring storytelling through technology and data
+```console
+> BSc Computer Science
+> MSc Computational & Data Journalism
+> Building automation systems and scalable applications
+> Exploring AI, APIs and data storytelling
+> Based in the United Kingdom
+```
+
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,supabase,git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Current Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📧 School Email Automation
-Automated bulk email and birthday messaging platform for schools.
-
-</td>
-
-<td width="50%">
-
-### 📺 Attendance Platform
-Livestream attendance tracking and analytics system.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Journalism
-Investigative and data-driven reporting projects.
-
-</td>
-
-<td width="50%">
-
-### ⚙️ API Experiments
-Building and testing scalable API ideas and automation tools.
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---|---|
+| 📧 School Email Automation | Bulk email and birthday automation platform for schools |
+| 📺 Attendance Platform | Livestream attendance tracking and analytics system |
+| 📊 Data Journalism Projects | Investigative and data-driven reporting projects |
+| ⚙️ API Experiments | Backend systems and scalable automation tools |
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
-<p align="left">
-<a href="https://github.com/martinsare">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=martinsare&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinsare&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/martinsare/martinsare/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/martinsare/martinsare/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/martinsare">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=martinsare&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚡ Currently Exploring
+
+- AI-assisted automation systems
+- Data-driven storytelling
+- Scalable backend architecture
+- API optimization workflows
 
 ---
 
 <p align="center">
-✨ Building ideas into systems.
+  ✨ Building ideas into systems.
 </p>
