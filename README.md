@@ -6,6 +6,12 @@ Developer • Data Journalism • Automation • AI Tools
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+automation+systems;Creating+web+applications;Exploring+AI+and+data+journalism;Turning+ideas+into+systems" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 BSc Computer Science
@@ -27,26 +33,39 @@ Developer • Data Journalism • Automation • AI Tools
 
 ## 📌 Current Projects
 
-- 📧 School email automation system
-- 📺 Livestream attendance platform
-- 📊 Data journalism investigations
-- ⚙️ API and automation experiments
+<table>
+<tr>
+<td width="50%">
 
----
+### 📧 School Email Automation
+Automated bulk email and birthday messaging platform for schools.
 
-## 📈 GitHub Stats
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinsare&show_icons=true&theme=tokyonight" />
-</p>
+<td width="50%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=martinsare&theme=tokyonight" />
-</p>
+### 📺 Attendance Platform
+Livestream attendance tracking and analytics system.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsare&layout=compact&theme=tokyonight" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data Journalism
+Investigative and data-driven reporting projects.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ API Experiments
+Building and testing scalable API ideas and automation tools.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,16 +79,17 @@ Developer • Data Journalism • Automation • AI Tools
 
 ---
 
-## 🔮 Future Upgrades
+## 👀 Profile Views
 
-- ✨ Animated typing effect
-- 🐍 Contribution snake animation
-- 🌐 Portfolio website
-- 👀 Visitor counter
-- 🎨 Custom GitHub banner
-- 🌑 Dark cyber/dev aesthetic
-- 📦 Project showcase cards
-- 🎵 Spotify & Discord widgets
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=martinsare&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/martinsare/martinsare/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
