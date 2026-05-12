@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/martinsare/martinsare/main/banner.png" />
+</p>
+
 <h1 align="center">Hey there 👋, I'm Martins</h1>
 
 <p align="center">
